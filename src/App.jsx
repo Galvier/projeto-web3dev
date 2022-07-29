@@ -17,11 +17,11 @@ export default function App() {
         </div>
 
         <div className="bio">
-        Eu sou o danicuki e já trabalhei com música, sabia? Legal, né? Conecte sua carteira  Ethereum wallet e me manda um tchauzinho!
+        Eu sou o Jonathan e já trabalhei com música, sabia? Legal, né? Conecte sua carteira  Ethereum wallet e me manda um cookie!
         </div>
 
         <button className="waveButton" onClick={wave}>
-          Mandar Tchauzinho 🌟
+          Mandar Cookie 🍩
         </button>
       </div>
     </div>
