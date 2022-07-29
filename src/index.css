@@ -11,3 +11,8 @@ code {
   font-family: Barlow, source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wavebutton {
+  background-color: gold;
+}
+
